@@ -101,9 +101,6 @@ links:
     url: /posts/
   - title: Other Page
     url: /other-page/
-  - title: External Page
-    url: http://mademistakes.com
-    external: true
 {% endhighlight %}
 
 ### Adding Posts and Pages
