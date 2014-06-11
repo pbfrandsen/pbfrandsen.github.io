@@ -4,5 +4,5 @@ description: "Trichoptera evolution and phylogenetics."
 tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: gimmelwald.jpg
-  credit: Paul Frandsen
+  credit: Christine Frandsen
 ---
