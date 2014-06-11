@@ -1,6 +1,6 @@
 ---
 layout: home
-description: "A responsive Jekyll theme with editorial tendencies by designer Michael Rose."
+description: "Trichoptera evolution and phylogenetics."
 tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: gimmelwald.jpg
