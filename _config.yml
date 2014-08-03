@@ -1,8 +1,8 @@
 title:            Paul Frandsen
-description:      Describe your website.
+description:      PhD candidate, Rutgers University Department of Entomology.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://pbfrandsen.github.io
-# http://localhost:4000
+#url:              http://pbfrandsen.github.io
+url: http://localhost:4000
 disqus_shortname:
 
 # Owner/author information
@@ -10,7 +10,7 @@ owner:
   name:           Paul Frandsen
   avatar:         pbf.jpg
   bio:            "PhD candidate, Department of Entomology, Rutgers University"
-  email:          your@email.com
+  email:          paulbfrandsen(at)gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: "@paulbfrandsen"
   facebook:
@@ -25,10 +25,10 @@ owner:
   steam:
   dribbble:
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:
+  google_plus: https://plus.google.com/+PaulFrandsen/
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:
+google_analytics: UA-53481344-1
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
@@ -36,10 +36,12 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About
-    url: /about/
-  - title: Posts
-    url: /posts/
+  - title: News
+    url: /news/
+  - title: Research
+    url: /research/
+  - title: Publications
+    url: /publications/
   - title: Theme Setup
     url: /theme-setup/
 
