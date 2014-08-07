@@ -5,7 +5,7 @@ title: "Personal"
 modified: 2014-08-06 15:44
 tags: [cycling, entomology, adventure, travel]
 image:
-  feature: gimmelwald.jpg
+  feature: nature_is_the_art_teacher.jpg
   credit: Paul Frandsen
   creditlink: 
 share: 

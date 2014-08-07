@@ -51,8 +51,4 @@
         <loc>http://localhost:4000/%5B%22cycling%22%5D/cycling-interview/</loc>
     </url>
     
-    <url>
-        <loc>http://localhost:4000/sample-link-post/</loc>
-    </url>
-    
 </urlset>
