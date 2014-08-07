@@ -13,7 +13,7 @@ share:
 
 -----
 
-I am interested in a wide variety of research topics, all falling under the broad umbrella of evolutionary biology. When I say this, I mean that I'm interested in how the world's current diversity of life has arisen and what life on earth might have been like in the past. I want to know what organisms looked like, where they lived, and how historical events shaped their distributions. I am fascinated by the variation in organisms' genomes and how these variations might help us better understand their past. To answer some of these questions, I use the tools of molecular phylogenetics and bioinformatics.
+I am interested in a wide variety of research topics, all falling under the umbrella of evolutionary biology. Broadly speaking, I'm interested in how the world's current diversity of life arose and what life on earth might have been like in the past. I want to know what organisms looked like, where they lived, and how historical events shaped their distributions. I am fascinated by the variation in organisms' genomes and how these variations might help us better understand their past. To answer some of these questions, I use the tools of molecular phylogenetics and bioinformatics.
 
 ###Insect evolution
 
