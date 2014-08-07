@@ -10,10 +10,6 @@
     </url>
     
     <url>
-        <loc>http://localhost:4000/about/</loc>
-    </url>
-    
-    <url>
         <loc>http://localhost:4000/feed.xml</loc>
     </url>
     
@@ -23,6 +19,10 @@
     
     <url>
         <loc>http://localhost:4000/news/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/partitioning/</loc>
     </url>
     
     <url>
@@ -42,33 +42,17 @@
     </url>
     
     <url>
-        <loc>http://localhost:4000/theme-setup/</loc>
+        <loc>http://localhost:4000/trichoptera/</loc>
     </url>
     
 
     
     <url>
-        <loc>http://localhost:4000/code-highlighting-post/</loc>
+        <loc>http://localhost:4000/%5B%22cycling%22%5D/cycling-interview/</loc>
     </url>
     
     <url>
         <loc>http://localhost:4000/sample-link-post/</loc>
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/readability-feature-post/</loc>
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/sample-post-images/</loc>
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/readability-post/</loc>
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/sample-post/</loc>
     </url>
     
 </urlset>

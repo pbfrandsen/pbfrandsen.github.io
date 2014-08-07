@@ -11,6 +11,8 @@ image:
 share: 
 ---
 
+-----
+
 Outside of my research, I enjoy spending time outdoors hiking, cycling, climbing, camping, snowboarding and cross country skiing. I am a member of the <a href="http://rutgerscycling.com">Rutgers cycling team</a> and enjoy racing my bike. I race bikes on the road, in the mountains, and in the dirt, mud, and sand on a <a href="https://www.youtube.com/watch?v=gWY7rRxIs8s">cyclocross</a> course (my favorite).
 
 <figure>
