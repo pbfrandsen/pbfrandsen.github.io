@@ -5,8 +5,8 @@ title: "Personal"
 modified: 2014-08-06 15:44
 tags: [cycling, entomology, adventure, travel]
 image:
-  feature: 
-  credit: 
+  feature: gimmelwald.jpg
+  credit: Paul Frandsen
   creditlink: 
 share: 
 ---
