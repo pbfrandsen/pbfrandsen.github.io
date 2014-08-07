@@ -13,10 +13,10 @@ share:
 
 -----
 
-Paul B. Frandsen
-Department of Entomology
-96 Lipman Dr.
-Rutgers University
-New Brunswick, NJ 08901
-USA
+Paul B. Frandsen,
+Department of Entomology,
+96 Lipman Dr.,
+Rutgers University,
+New Brunswick, NJ 08901,
+USA,
 paulbfrandsen(at)gmail.com
