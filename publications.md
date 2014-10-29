@@ -15,6 +15,11 @@ share:
 
 #2014
 
+* B. Misof\*, S. Liu, K. Meusemann, R. S. Peters, C. Mayer, A. Donath, **P. B. Frandsen**, J. Ware, R. G. Beutel, O. Niehuis, M. Petersen, 1KITE consortium (including 83 other authors), J. Wang\*, K. M. Kjer\*, X. Zhou\*. (*in press*) Phylogenomics resolves timing and pattern of insect evolution. *Science*.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Note: All listed authors were designated on the paper as “major contributors”
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*=corresponding authors.
+
 * K.M. Kjer, X. Zhou, **P.B. Frandsen**, J. Thomas, R. Blahnik. (*in press*) Building species-level phylogeny using ribosomal DNA and COI barcodes: an example from the diverse caddisfly genus, *Chimarra* (Insecta: Trichoptera: Philopotamidae). *Arthropod Systematics and Phylogeny*.
 
 * **P.B. Frandsen**, O. Flint, X. Zhou, K.M. Kjer. (*in press*) A proposal for using barcode data to fill out the leaves of the Trichoptera tree of life. Proceedings of the XIVth International Symposium on Trichoptera.
