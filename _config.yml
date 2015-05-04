@@ -1,15 +1,15 @@
 title:            Paul Frandsen
 description:      Genomics, bioinformatics, insects.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://paulfrandsen.com
-# url: http://localhost:4000
+ url:              http://paulfrandsen.com
+#url: http://localhost:4000
 disqus_shortname:
 
 # Owner/author information
 owner:
   name:           Paul Frandsen
   avatar:         pbf.jpg
-  bio:            "Genomics and bioinformatics specialist, Office of Research Information Services, Smithsonian Institution"
+  bio:            "Genomics and bioinformatics analyst, Office of Research Information Services, Smithsonian Institution"
   email:          paulbfrandsen@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: "@paulbfrandsen"
