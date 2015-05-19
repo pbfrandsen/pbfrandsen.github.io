@@ -32,3 +32,7 @@ share:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Note: All listed authors were designated on the paper as “major contributors”
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*=corresponding authors.
+
+#2013
+* T.S. Vshivkova, O.S. Flint, R.W. Holzenthal, K.M Kjer, **P.B. Frandsen**, R.E. Thomson, A.B. Egorov. (January 2013) [First data on Trichoptera fauna (Insecta) of streams and ponds of Vostok
+Bay Basin (Peter the Great Bay, Primorye Territory)](http://www.biosoil.ru/files/00011878.pdf). Chapter in *FRESHWATER LIFE*, Publisher: Dalnauka, Editors: Makarchenko E.A.
