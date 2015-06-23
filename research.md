@@ -17,7 +17,7 @@ I am interested in a wide variety of research topics, all falling under the umbr
 
 ###Insect evolution
 
-The world is a wonderful place full of interesting life. Among the most diverse and least understood organisms are the insects—a fact that makes them endlessly interesting to me. I satisfy some of my curiosity by participating in large collaborative efforts such as the [1KITE](http://1kite.org) project, which is aimed at better understanding the evolutionary history and diversity of insects. My specific insect interests are focused on an order of small, moth-like insects called caddisflies (Insecta: Trichoptera), and I am spending a good portion of my PhD in an attempt to better understand the evolution this group. You can read more about my research on caddisflies <a markdown="0" href="{{ site.url }}/trichoptera/">here</a>. 
+The world is a wonderful place full of interesting life. Among the most diverse and least understood organisms are the insects—a fact that makes them endlessly interesting to me. I satisfy some of my curiosity by participating in large collaborative efforts such as the [1KITE](http://1kite.org) project, which is aimed at better understanding the evolutionary history and diversity of insects. My specific insect interests are focused on an order of small, moth-like insects called caddisflies (Insecta: Trichoptera). My PhD work was primarily focused on understanding the evolution this group. You can read more about my research on caddisflies <a markdown="0" href="{{ site.url }}/trichoptera/">here</a>. 
 
 ###Phylogenetic methods
 
