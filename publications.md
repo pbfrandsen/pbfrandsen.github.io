@@ -15,7 +15,9 @@ share:
 
 #2015
 
-* **P.B. Frandsen**, B. Calcott, C. Mayer, R. Lanfear. (10 February 2015) [Automatic selection of partitioning schemes for phylogenetic analyses using iterative k-means clustering of site rates](http://www.biomedcentral.com/1471-2148/15/13). *BMC Evolutionary Biology*
+* K. M. Kjer, J. L. Ware, J. Rust, T. Wappler, R. Lanfear, L. S. Jermiin, X. Zhou, H. Aspöck, U. Aspöck, R. G. Beutel, A. Blanke, A. Donath, T. Flouri, **P. B. Frandsen**, P. Kapli, A. Y. Kawahara, H. Letsch, C. Mayer, D. D. McKenna, K. Meusemann, O. Niehuis, R. S. Peters, B. M. Wiegmann, D. K. Yeates, B. M. von Reumont, A. Stamatakis, B. Misof. (31 July 2015) [Response to Comment on “Phylogenomics resolves the timing and pattern of insect evolution”](http://www.sciencemag.org/content/349/6247/487.3.full). *Science*.
+
+* **P.B. Frandsen**, B. Calcott, C. Mayer, R. Lanfear. (10 February 2015) [Automatic selection of partitioning schemes for phylogenetic analyses using iterative k-means clustering of site rates](http://www.biomedcentral.com/1471-2148/15/13). *BMC Evolutionary Biology*.
 
 * **P.B. Frandsen**, O. Flint, X. Zhou, K.M. Kjer. (*in press*) A proposal for using barcode data to fill out the leaves of the Trichoptera tree of life. *Proceedings of the XIVth International Symposium on Trichoptera*.
 
