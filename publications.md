@@ -12,6 +12,7 @@ share:
 ---
 
 -----
+
 # 2016
 
 * X. Zhou, **P.B. Frandsen**, R.W. Holzenthal, C.R. Beet, K.R. Bennett, R.J. Blahnik, N. Bonada, D. Cartwright, S. Chuluunbat, G.V. Cocks, G.E. Collins, J. Dean, O.S. Flint, A. Hausmann, L. Hendrich, M. Hess, I.D. Hogg, B.C. Kondratieff, H. Malicky, M.A. Milton, J. Morinière, J.C. Morse, F.N. Mwangi, S.U. Pauls, M.R. Gonzalez, A. Rinne, J.L. Robinson, J. Salokannel, M. Shackleton, B. Smith, A. Stamatakis, R. StClair, J.A. Thomas, C. Zamora-Muñoz, T. Ziesmann, K.M. Kjer. (9 August 2016) [The Trichoptera barcode initiative: a strategy for generating a species-level Tree of Life](http://rstb.royalsocietypublishing.org/content/371/1702/20160025.abstract). *Zoosymposia*.
@@ -27,12 +28,6 @@ share:
 * K. M. Kjer, J. L. Ware, J. Rust, T. Wappler, R. Lanfear, L. S. Jermiin, X. Zhou, H. Aspöck, U. Aspöck, R. G. Beutel, A. Blanke, A. Donath, T. Flouri, **P. B. Frandsen**, P. Kapli, A. Y. Kawahara, H. Letsch, C. Mayer, D. D. McKenna, K. Meusemann, O. Niehuis, R. S. Peters, B. M. Wiegmann, D. K. Yeates, B. M. von Reumont, A. Stamatakis, B. Misof. (31 July 2015) [Response to Comment on “Phylogenomics resolves the timing and pattern of insect evolution”](http://www.sciencemag.org/content/349/6247/487.3.full). *Science*.
 
 * **P.B. Frandsen**, B. Calcott, C. Mayer, R. Lanfear. (10 February 2015) [Automatic selection of partitioning schemes for phylogenetic analyses using iterative k-means clustering of site rates](http://www.biomedcentral.com/1471-2148/15/13). *BMC Evolutionary Biology*.
-
-* **P.B. Frandsen**, O. Flint, X. Zhou, K.M. Kjer. (*in press*) A proposal for using barcode data to fill out the leaves of the Trichoptera tree of life. *Proceedings of the XIVth International Symposium on Trichoptera*.
-
-* **P.B. Frandsen**, R. Thomson (*in press*) Collection and preservation of DNA and RNA for Trichoptera researchers. *Proceedings of the XIVth International Symposium on Trichoptera*.
-
-* K. M. Kjer, J. Thomas, E. Scott, **P. B. Frandsen**, X. Zhou, R. Holzenthal. (*in press*). Progress on Phylogeny of Caddisflies (Trichoptera). *Proceedings of the XIVth International Symposium on Trichoptera*.
 
 
 # 2014
