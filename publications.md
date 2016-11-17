@@ -15,6 +15,8 @@ share:
 
 # 2016
 
+* K.M. Kjer, M. Borowiec, **P.B. Frandsen**, J. Ware, B. Wiegmann. (31 December 2016). [Advances using molecular data in insect systematics](http://dx.doi.org/10.1016/j.cois.2016.09.006). *Current Opinion in Insect Science*.
+
 * X. Zhou, **P.B. Frandsen**, R.W. Holzenthal, C.R. Beet, K.R. Bennett, R.J. Blahnik, N. Bonada, D. Cartwright, S. Chuluunbat, G.V. Cocks, G.E. Collins, J. Dean, O.S. Flint, A. Hausmann, L. Hendrich, M. Hess, I.D. Hogg, B.C. Kondratieff, H. Malicky, M.A. Milton, J. Morinière, J.C. Morse, F.N. Mwangi, S.U. Pauls, M.R. Gonzalez, A. Rinne, J.L. Robinson, J. Salokannel, M. Shackleton, B. Smith, A. Stamatakis, R. StClair, J.A. Thomas, C. Zamora-Muñoz, T. Ziesmann, K.M. Kjer. (5 September 2016) [The Trichoptera barcode initiative: a strategy for generating a species-level Tree of Life](http://rstb.royalsocietypublishing.org/content/371/1702/20160025.abstract). *Philosophical Transactions of the Royal Society B*.
 
 * K.M. Kjer, J.A. Thomas, X. Zhou, **P.B. Frandsen**, E. Prendini, R.W. Holzenthal. (9 August 2016) [Progress on the phylogeny of caddisflies (Trichoptera)](http://www.mapress.com/j/zs/article/view/zoosymposia.10.1.23). *Zoosymposia*.
