@@ -13,7 +13,13 @@ share:
 
 -----
 
+# 2017
+
+R.B. Dikow, **P.B. Frandsen**, M. Turcatel, T. Dikow. (accepted) Genomic and transcriptomic resources for assassin flies including the complete genome sequence of Proctacanthus coquilletti (Insecta: Diptera: Asilidae) and 16 representative transcriptomes. *PeerJ*.
+
 # 2016
+
+* R. Lanfear, **P.B. Frandsen**, A. Wright, T. Senfeld, B. Calcott (accepted). [PartitionFinder 2: new methods for selecting partitioned models of evolution for molecular and morphological phylogenetic analyses](dx.doi.org/10.1093/molbev/msw260). *Molecular Biology and Evolution*.
 
 * K.M. Kjer, M. Borowiec, **P.B. Frandsen**, J. Ware, B. Wiegmann. (31 December 2016). [Advances using molecular data in insect systematics](http://dx.doi.org/10.1016/j.cois.2016.09.006). *Current Opinion in Insect Science*.
 
