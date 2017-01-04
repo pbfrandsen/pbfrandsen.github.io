@@ -15,7 +15,7 @@ share:
 
 # 2017
 
-R.B. Dikow, **P.B. Frandsen**, M. Turcatel, T. Dikow. (accepted) Genomic and transcriptomic resources for assassin flies including the complete genome sequence of Proctacanthus coquilletti (Insecta: Diptera: Asilidae) and 16 representative transcriptomes. *PeerJ*.
+* R.B. Dikow, **P.B. Frandsen**, M. Turcatel, T. Dikow. (accepted) Genomic and transcriptomic resources for assassin flies including the complete genome sequence of Proctacanthus coquilletti (Insecta: Diptera: Asilidae) and 16 representative transcriptomes. *PeerJ*.
 
 # 2016
 
