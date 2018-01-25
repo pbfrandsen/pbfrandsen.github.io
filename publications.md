@@ -15,11 +15,13 @@ share:
 
 # 2017
 
-* R.B. Dikow, **P.B. Frandsen**, M. Turcatel, T. Dikow. (accepted) Genomic and transcriptomic resources for assassin flies including the complete genome sequence of Proctacanthus coquilletti (Insecta: Diptera: Asilidae) and 16 representative transcriptomes. *PeerJ*.
+* E. Schuettpelz, **P.B. Frandsen**, R.B. Dikow, A. Brown, S. Orli, M. Peters, A. Metallo, V.A. Funk, L.J. Dorr. (2 November 2017). [Applications of deep convolutional neural networks to digitized natural history collections](https://dx.doi.org/10.3897%2FBDJ.5.e21139). *Biodiversity Data Journal*.
+
+* R.B. Dikow, **P.B. Frandsen**, M. Turcatel, T. Dikow. (31 January 2017) [Genomic and transcriptomic resources for assassin flies including the complete genome sequence of Proctacanthus coquilletti (Insecta: Diptera: Asilidae) and 16 representative transcriptomes](https://dx.doi.org/10.7717/peerj.2951). *PeerJ*.
 
 # 2016
 
-* R. Lanfear, **P.B. Frandsen**, A. Wright, T. Senfeld, B. Calcott (accepted). [PartitionFinder 2: new methods for selecting partitioned models of evolution for molecular and morphological phylogenetic analyses](http://dx.doi.org/10.1093/molbev/msw260). *Molecular Biology and Evolution*.
+* R. Lanfear, **P.B. Frandsen**, A. Wright, T. Senfeld, B. Calcott (24 December 2016). [PartitionFinder 2: new methods for selecting partitioned models of evolution for molecular and morphological phylogenetic analyses](http://dx.doi.org/10.1093/molbev/msw260). *Molecular Biology and Evolution*.
 
 * K.M. Kjer, M. Borowiec, **P.B. Frandsen**, J. Ware, B. Wiegmann. (31 December 2016). [Advances using molecular data in insect systematics](http://dx.doi.org/10.1016/j.cois.2016.09.006). *Current Opinion in Insect Science*.
 
